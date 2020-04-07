@@ -1,4 +1,4 @@
-
+print("ohohoho hohohoh")
 print("Hello Git!!")
 print("Hello! world!")
 print("Hello mars!")
